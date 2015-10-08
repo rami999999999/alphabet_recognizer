@@ -1,0 +1,4 @@
+[package]
+name = "alphabet_recognizer"
+version = "0.1.0"
+authors = ["Pedro L. Ramos <pedrolorgaramos@gmail.com>"]
